@@ -1,0 +1,43 @@
+#myDiv{
+  height: 56px;
+  width: 56px;
+  background:blue;
+  margin: 50px;
+  display: inline-block;
+  border-radius: 100%
+}
+
+#myDiv1{
+  height: 56px;
+  width: 56px;
+  background:blue;
+  margin: 50px;
+    display: inline-block;
+    border-radius: 100%
+}
+
+#myDiv2{
+  height: 56px;
+  width: 56px;
+  background:blue;
+  margin: 50px;
+  display: inline-block;
+  border-radius: 100%
+}
+
+#myDiv3{
+  height: 56px;
+  width: 56px;
+  background:blue;
+  margin: 50px;
+    display: inline-block;
+    border-radius: 100%
+}
+
+.inside{
+    height: 5px;
+  width: 5px;
+  background:yellow;
+  margin: 5px;
+    display: inline-block;
+}
